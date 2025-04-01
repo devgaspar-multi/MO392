@@ -77,6 +77,11 @@
   margin-top: 28px;
 }
 
+.MO392-frth-banner-desk {
+  width: 100%;
+  border-radius: 36px;
+}
+
 .MO392-text-box {
   display: flex;
   flex-direction: column;
